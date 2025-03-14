@@ -11,17 +11,6 @@ int main() {
 	int random_var = rand();
 	printf("this is a test to see is the random var works: %d \n", random_var);
 
-	/*
-	if ( ROCK < PAPER ) {
-		printf("true\n");
-		printf("ROCK = %d \n", ROCK);
-		printf("PAPER = %d \n", PAPER);
-		printf("SCISSORS = %d \n", SCISSORS);
-	} else {
-		printf("false\n");
-	}
-	*/
-
 start:
 	//setting my variables
 	printf("make a choice between rock(r) paper(p) and scissors(s) then press enter~ \n\n");
