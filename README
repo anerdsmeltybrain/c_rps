@@ -1,0 +1,8 @@
+# this is a small console game I made in C
+
+**to compile the project**
+
+>cc main.c
+>./a.out
+
+
